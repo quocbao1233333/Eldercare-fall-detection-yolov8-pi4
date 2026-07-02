@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+fall_env/
+venv/
+.env/
+
+# Logs and results
+*.csv
+results/csv_logs/
+results/screenshots/
+
+# Large data
+data/test_videos/
+*.mp4
+*.avi
+*.mov
+
+# OS
+.DS_Store
+Thumbs.db
