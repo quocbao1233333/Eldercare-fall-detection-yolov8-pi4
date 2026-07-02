@@ -1,3 +1,2 @@
 ultralytics
-psutil
-opencv-python
+cvzone
